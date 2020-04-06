@@ -1,0 +1,32 @@
+
+body {
+    justify-content: center;
+}
+ul {
+    list-style: inside;
+    background-color:lightgray;
+}
+h1 {
+    color: royalblue;
+    font-family: "Kaushan Script";
+    font-size: 50px;
+    text-align: center;
+
+
+}
+p {
+    text-align: center;  
+}
+figure{
+    text-align: center; 
+
+}
+.gallary {
+    background: LightGray;
+    display:flex;
+    grid-template-columns: 50px 100px;
+    grid-template-rows: 50px 50px;
+
+}
+
+    
